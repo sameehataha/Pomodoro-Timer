@@ -1,0 +1,80 @@
+* {
+    box-sizing:border-box;
+    padding: 0px;
+    margin: 0;
+   }
+
+body{
+    font-family: monospace;
+    margin:0;
+    background-image: url("./studying.jpg");
+    min-height: 100vh;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    background-position: center center;
+    display: flex;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+    color: aliceblue;
+    background-color: lightpink;
+    border-radius: 2em;
+    width: 380px;
+    height: 420px;
+    padding: 2rem 1.5rem;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+    text-align: center;
+}
+
+hr {
+    width: 100%;
+    background-color: aliceblue;
+    height: 3px;
+    border: none;
+    margin: 0.5rem 0;
+}
+
+.timer {
+    font-size: 7rem;
+    font-weight: 900;
+    margin: 0.5rem 0;
+}
+
+
+.button-wrapper {
+    display: flex;
+    gap: 0.8rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+button {
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    padding: 0.6rem 1.2rem;
+    border-radius: 0.6rem;
+    border: none;
+    min-width: 80px;
+    color: aliceblue;
+    background-color: #8B7D82;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-transform: uppercase;
+}
+button:hover{
+    background-color: #c9b7bd;
+    transform:translateY(-10px);
+}
