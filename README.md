@@ -6,6 +6,7 @@ This timer follows the **Pomodoro technique** – focus for **25 minutes** and t
 To improve focus, **Lofi music** plays during your session, and a **notification sound** alerts you when the timer ends.  
 
 ---
+**Live Website:** [Click here](https://pomodoro-with-lofi.netlify.app)
 
 ## ✨ Features
 - ⏱ **25-minute countdown timer** (1500 seconds)  
