@@ -93,7 +93,7 @@ To improve focus, **Lofi music** plays during your session, and a **notification
 
 ---
 ## 📷 Screenshot
-![App Screenshot] (./github.jpg)
+![App Screenshot](github.jpg)
 
 ## 🌐 Hosting
 This project can be hosted easily using:  
